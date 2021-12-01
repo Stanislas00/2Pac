@@ -1,0 +1,98 @@
+    1  git init
+    2  ls -al
+    3  ls -al
+    4  ls -al
+    5  git init
+    6  git --version 2.30.windows.1
+    7  git confirg --global user.nam "Stanislas94"
+    8  git confirg --global user.name "Stanislas"
+    9  git confirg --global user.name "Stanislas94"
+   10  git config --global user.name "Stanislas94"
+   11  git config --global user.email "stanislasdassanou@gmail.com
+   12  git config --global user.email "stanislasdassanou@gmail.com"
+   13  git --version
+   14  git config --global user.name "Stanislas94"
+   15  git config --global user.email "stanislasdassanou@gmail.com"
+   16  git --version
+   17  git config --user.name "Stanislas94"
+   18  git --version
+   19  git config --global user.name "Stanislas94"
+   20  git config --global user.email "stanislasdassanou@gmail.com"
+   21  git config --global user.email 
+   22  git init
+   23  git ls -al
+   24  git status
+   25  git add
+   26  git status
+   27  history
+   28  git init
+   29  git checkout -b "Stanislas00"
+   30  history
+   31  git init
+   32  git checkout -b "Stanislas00"
+   33  history
+   34  history >command.txt
+   35  git add.
+   36  add
+   37  git add
+   38  git init
+   39  git init
+   40  git checkout -b "Stanislas00"
+   41  history
+   42  history >command.txt
+   43  git add .
+   44  git  commit -m "ajout d'un ficher woos"
+   45  git status
+   46  git lg
+   47  git log
+   48  git remote add origin https://github.com/Stanislas00/soso.git
+   49  git push -u origin "soso"
+   50  git add origin https://github.com/Stanislas00/soso.git
+   51  git  push -u origin "soso"
+   52  git push -u origin "D-veloppement-web"
+   53  git init
+   54  git checkout -b "Stanislas00"
+   55  history
+   56  history >command.txt
+   57  git add
+   58  git add.
+   59  GIT ADD .
+   60  git add .
+   61  git init
+   62  git checkout -b "Stanislas00"
+   63  history
+   64  history >command.txt
+   65  git add .
+   66  git commit -m "ajout d'un ficher ok"
+   67  git log
+   68  git remote add origin https://github.com/Stanislas00/letaf.git
+   69  git push -u origin "letaf"
+   70  git push -u origin main
+   71  git push -u origin "main"
+   72  git push -u origin "Stanislas00"
+   73  git init
+   74  git checkout -b "Stanislas00"
+   75  history
+   76  history >command.txt
+   77  git add .
+   78  git commit -m "Ajout d'un ficher mata"
+   79  git log
+   80  git add origin https://github.com/Stanislas00/mata.git
+   81  git remote add origin https://github.com/Stanislas00/mata.git
+   82  git push -u origin "mata"
+   83  git push -u origin "Stanislas00"
+   84  git push -u origin "Stanislas00"
+   85  git init
+   86  git checkout -b "Stanislas00"
+   87  history
+   88  history >command.txt
+   89  git commit -m "Ajout d'un ficher mata"
+   90  git add .
+   91  git commit -m "Ajout d'un ficher mata"
+   92  git log
+   93  git remote add origin https://github.com/Stanislas00/mata.git
+   94  git push -u origin "Stanislas00"
+   95  git init
+   96  git checkout -b "Stanislas00"
+   97  history
+   98  history >command.txt
